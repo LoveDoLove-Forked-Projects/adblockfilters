@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261026024932
-! Last modified: 2026/10/26 02:49:32
-! Blocked Filters: 105048
+! Version: 20261026120905
+! Last modified: 2026/10/26 12:09:05
+! Blocked Filters: 105020
 !
 ###AC_ad
 ###AD_160
@@ -16034,6 +16034,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 .klclick1.com/$image
 .land/ad/*.gif
 .lassuranceretraite.fr/mk/op/$image
+.libaishuo.com^
 .libaishuo.com^$third-party
 .life/ads/
 .list-manage.com/track/
@@ -22946,13 +22947,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="SidebarAds_"]
 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="helper__AdContainer"]
 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[data-ads-params]
-3boys2girls.com###displayadb1
-3boys2girls.com###displayadbu3
-3boys2girls.com###div3_display3
-3boys2girls.com###div_display
-3boys2girls.com###hotbar
-3boys2girls.com###overture_ads_long
-3boys2girls.com##.float320
 3c-lxa.mail.com##.ad.sky
 3c-lxa.mail.com#$#html.can-have-sky .page-body > .section-content { margin-right: 0 !important; }
 3czol.com##[class^="ban_"]
@@ -36329,6 +36323,7 @@ adersaytech.com##.adersay-ad
 adexchanger.com##.adex-ad-text
 adexchanger.com##.widget_ai_ad_widget
 adexchanger.com,gottabemobile.com,mrmoneymustache.com,thinkcomputers.org#@#.custom-ad
+adfoc.us##a[href^="https://www.survivalservers.com/"]
 adguard.info,adguard.com,adguard.app##.hello_from_adguard_adblocking_app
 adguard.info,adguard.com,adguard.app##.hello_from_adguard_adblocking_ext
 adguard.info,adguard.com,adguard.app##.hello_from_adguard_apps
@@ -44630,7 +44625,6 @@ cqnews.net##.taobao
 cr173.com##.downurl[data^="viewAds"]
 cr173.com,downcc.com,downyi.com,itmop.com##.downnowgaosu
 cr173.com,itmop.com,jisuxz.com##.xiazaiqi
-crackdj.com##button[class^="buttonPress-"]
 crackedresource.com##a[href^="https://popcornpump.xyz/"]
 crackedvst.com#?#.g1-collection-items > .g1-injected-unit:has(> .g1-advertisement-inside-grid)
 crackevil.com#%#//scriptlet("abort-current-inline-script", "mMcreateCookie")
@@ -53228,7 +53222,6 @@ gom.ge##a[href="http://topkinoebi.com/"]
 gomagic.org###fullscreen_ad
 gomagic.org###fullscreen_ad_wrap
 gomostream.com##.adtimes
-gomovies.sx##div[style="width: 100%; padding-bottom: 320px; position: relative;"]
 gomoviestv.to,9anime.*,swiftload.io,decmelfot.xyz,usgate.xyz#$?#div[style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;"] { remove: true; }
 gomoviestv.to,9anime.*,swiftload.io,decmelfot.xyz,usgate.xyz#$?#iframe[src="about:blank"] { remove: true; }
 gongkong.com###dull_left
@@ -64417,8 +64410,6 @@ movies123-online.me##a[href$="/premium-membership"] > img
 movies123-online.me#?#body > div[class]:has(> div[id] > div[id] > a[href$="/premium-membership"])
 movies123.pics##.popOverForADSInPlayer
 movies2watch.ru#%#//scriptlet("prevent-window-open")
-movies2watch.tv##div[id^="gift-"]
-movies2watch.tv#%#//scriptlet('prevent-window-open')
 movies4u.*#%#//scriptlet('abort-on-property-write', 'app_advert')
 movies7to.net##.banner_wrapper
 moviesand.com###ggf-aside > .inner-aside-af
@@ -65108,7 +65099,6 @@ myfilmyzilla.com#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2
 myfitnesspal.com##[title*="Ad"]
 myflixer.to###overlay-container
 myflixerfree.org,vidify.top#%#//scriptlet('set-constant', 'vastAdData', 'undefined')
-myflixerz.to##a[href="https://pcnema.to"]
 myflixerz.to,hdtodayz.to,moviesjoy.is##div:is([id$="top"], [id$="middle"]) > a[target="_blank"] > img
 myfoodbook.com.au##.slick--optionset--mfb-banners
 myfreax.com#?#main > div.w-full:has(> ins.adsbygoogle)
@@ -72189,13 +72179,6 @@ readanybook.com##.timimg-ad-iframe
 readanybook.com##.timing-ads-timer
 readberserk.com,onepiecechapters.com##.pages__ad
 readberserk.com,readopm.com##.widget-area > div.card:first-child
-readcomiconline.li###adbWarnContainer
-readcomiconline.li##.divCloseBut
-readcomiconline.li#%#//scriptlet('abort-current-inline-script', 'document.createElement', '.quit)')
-readcomiconline.li#%#//scriptlet('abort-on-property-write', 'ads_urls')
-readcomiconline.li#%#//scriptlet('abort-on-property-write', 'checkAdsBlocked')
-readcomiconline.li#%#//scriptlet('prevent-xhr', '/bidgear\.com|mgid\.com|pagead2\.googlesyndication\.com/')
-readcomiconline.li#%#//scriptlet('set-constant', 'isAdb', 'false')
 readcomiconline.li,dvdtrailertube.com,weekendnotes.com##div[style*="width: 300px; height: 250px;"]
 readcomicsonline.ru##.ads-large
 reader.gr###in_read_dfp_inread
@@ -81909,8 +81892,6 @@ uploadev.com##a[href^="https://wronsironhow.club/"]
 uploadev.com##form #downloadBtnClick ~ a[target="blank"][rel="nofollow"]
 uploadev.com#$##downloadBtnClick { display:none!important; }
 uploadev.com#$##downloadbtn { display:block!important; }
-uploadev.org##img[data-original-height="90"][data-original-width="728"]
-uploadev.org#%#//scriptlet("abort-on-property-read", "openInNewTab")
 uploadever.com###container > center > .btn-success
 uploadfile.cc,upindia.*##.soundy
 uploadfiles.*#%#//scriptlet("prevent-window-open")
@@ -87465,10 +87446,6 @@ zzzyk.com###Tinfo
 ||3987.com/skins/*201
 ||3987.com/statics/tow_skin/new_img/20
 ||3alian.net^$third-party
-||3boys2girls.com/newfile/image2010/banner_housead_
-||3boys2girls.com/templates/default/2013/life/160b5.js
-||3boys2girls.com/templates/default/2013/randlinks.js
-||3boys2girls.com^$subdocument
 ||3czol.com/ad/
 ||3d-hentai.co/ad.xml
 ||3d-porn.co/va.mp4
@@ -87695,6 +87672,7 @@ zzzyk.com###Tinfo
 ||5dscw.com/public/
 ||5dyx.com/static/jquery.js
 ||5dyx.com/static/js/deny.js
+||5etv.com^$third-party
 ||5fz.cc/t/aimg/tao
 ||5icool.org/uploadfile/poster/
 ||5ilinglei.com/gg.html
@@ -88084,6 +88062,7 @@ zzzyk.com###Tinfo
 ||adblockeronstrtape.xyz/stat/
 ||adblockersentinel.com^$popup
 ||adblockplustape.xyz/stat/
+||adblockrelief.com^$third-party
 ||adblockstream.com^$popup
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
@@ -88103,6 +88082,7 @@ zzzyk.com###Tinfo
 ||adcs-*.myappsget.com^
 ||addtoany.com/menu/transparent.gif
 ||adduplex.com/*/GetAd
+||adfoc.us^$script,third-party
 ||adguard-dns.io/-/event/
 ||adguard-dns.io/-/logs/
 ||adguard-dns.io/-/metrics/
@@ -88161,7 +88141,6 @@ zzzyk.com###Tinfo
 ||ads.talk.tv/ads.talktv.min.js
 ||ads.zw.pl/www/images/
 ||adsafelink.com/js/webscript.js
-||adsb4trk.com^$popup
 ||adsbreak.com^$popup
 ||adserver*.euroweeklynews.com^
 ||adserver.*.yahoodns.net^
@@ -88180,7 +88159,6 @@ zzzyk.com###Tinfo
 ||adsrvmedia.adk2.co^$important
 ||adsrvmedia.adk2.co^$important,third-party
 ||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
-||adtector.com^$third-party
 ||adult-sex-games.com/images/*.gif
 ||adult-sex-games.com/images/adult-games/
 ||adult-sex-games.com/images/promo/
@@ -91219,7 +91197,6 @@ zzzyk.com###Tinfo
 ||cloudfunctions.net/trackEvent
 ||cloudfunctions.net/vanalytics
 ||cloudfunctions.net/webtraffic$domain=eurocampings.nl
-||cloudiq.com^$third-party
 ||cloudnet.hentai-moon.com/candyai/
 ||cloudorchestranova.com/f59d610a61063c7ef3ccdc1fd40d2ae6.js
 ||cloudpsh.top^$popup
@@ -91332,7 +91309,6 @@ zzzyk.com###Tinfo
 ||codex-resets.com/sponsors.js
 ||coefficy.com/ip/
 ||cogmatch.net^$third-party
-||cognativex.com^$third-party
 ||coherentpath.com/tracker/
 ||coincarp.com/cdn-cgi/trace
 ||coincarp.com/script/events.js
@@ -91605,7 +91581,6 @@ zzzyk.com###Tinfo
 ||crypto-coins.com^$third-party
 ||crypto-coins.info^$third-party
 ||crypto-fire.website/mine/partner/$third-party
-||crypto-webminer.com^$third-party
 ||cryptobara.com^$third-party
 ||cryptofans.news/frame/OfferPack?
 ||cryptomininggame.com/uploads/partner/images/
@@ -91648,7 +91623,6 @@ zzzyk.com###Tinfo
 ||cu.dzen.ru/?rn=
 ||cubbyathome.com/jAYekY18/init.js
 ||cube.nlpcaptcha.in/index.php/cubes/getCubeBox/$domain=irctc.co.in
-||cuberoot.co^$third-party
 ||cuckoldland.com/CuckoldLand728-X-90-2.gif
 ||cue.search.naver.com/api/*/log/
 ||cuevastrck.com^$popup
@@ -91669,7 +91643,6 @@ zzzyk.com###Tinfo
 ||customerconversio.com^$third-party
 ||customerevents.us-east-*.internal.dradis.netflix.com^
 ||customerlobby.com/ctrack-
-||cute-cursor.com^$popup
 ||cutegurlz.com/promos-royal-slider/aff/
 ||cv.ee/static/stat.php
 ||cvs.com/tnadstlinj.js
@@ -91963,6 +91936,7 @@ zzzyk.com###Tinfo
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
 ||devapp.it/wordpress/wp-content/uploads/*-300x250.
+||devatics.com^$third-party
 ||develenv.com^$third-party
 ||developer-tech.com/wp-content/uploads/sites/*/FREE-VIRTUAL-EVENTS$image
 ||developer.mozilla.org/pong/
@@ -93180,6 +93154,7 @@ zzzyk.com###Tinfo
 ||flixbaba.net/utilsminhill.js
 ||flixcart.com/px/gNtTli3A/init.js
 ||flixcdn.com^*/track.js
+||flixfacts.co.uk^$third-party
 ||flixmomo.com/utilsminall.js
 ||flixster.com^*/analytics.
 ||flixtrz.com/api/ads|
@@ -93214,6 +93189,7 @@ zzzyk.com###Tinfo
 ||fobshanghai.com/bbsad/
 ||fokstatic.nl/fp/global/*adshield.js
 ||folderz.nl/clickstream/
+||followistic.com/widget/stat/
 ||fomo.azurewebsites.net/activity/batchTrack
 ||fonolive.com/promoted-ads
 ||fontanka.ru/api/metrics/
@@ -93711,7 +93687,6 @@ zzzyk.com###Tinfo
 ||geoloc*.geovisite.ovh^
 ||geoproapp.com/api/record
 ||georealcdn.com/exo/
-||geotargetly-1a441.appspot.com^$third-party
 ||geotargetly-api-*.com^
 ||geotmt.com^$third-party
 ||geotrust.com^$third-party
@@ -97051,6 +97026,7 @@ zzzyk.com###Tinfo
 ||magesy.net/juan.js
 ||magesy.net/pepa$script
 ||magicads.nl^$popup
+||magicpixel.io^$third-party
 ||magma.com/assets/brand/magma/components/*/horizontal/$image
 ||magnetmail1.net^$third-party
 ||magnify.net/decor/track/
@@ -97921,6 +97897,7 @@ zzzyk.com###Tinfo
 ||myfreecams.com/php/tracking.php?
 ||myfreemp3.best/img/stb.png
 ||myfutanari.com/nb/
+||mygeek.cn/pic_$domain=dapenti.com
 ||mygostore.com/api/log
 ||myhack58.com/Articleacb0
 ||myhack58.com^*0$script
@@ -98642,7 +98619,6 @@ zzzyk.com###Tinfo
 ||openstack.org/api/public/v1/sponsored-projects?
 ||opentrackers.org/i/*_banner
 ||opentrackers.org/i/dediseedbox_sb.png
-||openvenue.com^$third-party
 ||opera.com^*PWNgames$document
 ||opera.com^*PWNgames$popup
 ||opera.com^*admaven$document
@@ -99110,6 +99086,7 @@ zzzyk.com###Tinfo
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
 ||piratecat.online/ads/
+||piratepx.com^$third-party
 ||pisshamster.com/prerolls/
 ||pites.cc/js/top.php
 ||piwik.*.vn^
@@ -100089,7 +100066,6 @@ zzzyk.com###Tinfo
 ||react-spring.dev/assets/components-*.js$replace=/throw Error\(.\(418\)\);/null;/,domain=react-spring.dev
 ||read.amazon.*/ads-prebid.js$script,redirect=prebid-ads,important
 ||read.amazon.*/uploadMetrics/
-||readcomiconline.li/ads/
 ||readcube.com/assets/track_
 ||readingrockets.org/sites/default/files/swab-promo-300-
 ||readwn.com/*/ad/
@@ -101233,7 +101209,6 @@ zzzyk.com###Tinfo
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
 ||so-zou.jp/js/ga.js
-||so.91ks.online/asset/bd.js
 ||so.com/com/ads?
 ||so.com/index/advertise
 ||so.com/recomm/simi?
@@ -102713,7 +102688,6 @@ zzzyk.com###Tinfo
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||trace-*.free-reels.com^
 ||trace-*.hungrypanda.co^
-||traceless.me^$third-party
 ||tracemonitorusa.life^$popup
 ||tracemyip.org/vlg/
 ||tracemyip.org^$third-party
@@ -103269,7 +103243,6 @@ zzzyk.com###Tinfo
 ||user.042.cn/adver/adver.js
 ||user.com/widget.js$domain=sad24.pl|wrp.pl|jagodowe.pl|warzywa.pl
 ||usercentrics.eu/session/$image
-||usercycle.com^$third-party
 ||users-api.com^$third-party
 ||userscript.zone/s.js
 ||usersonline.org/ping.php?
@@ -103813,7 +103786,6 @@ zzzyk.com###Tinfo
 ||webmagazyn.pl/*/wp-content/uploads/*/300-250pammm-300x250.jpg
 ||webmasters.ksalsocial.online/pixel/
 ||webmd.com/static/v/c?
-||webmining.co^$third-party
 ||webnovelonline.com/static/media/banner_
 ||webpuppweb.com^$popup
 ||webseed.com/WP/

@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261026024932
-! Last modified: 2026/10/26 02:49:32
-! Blocked domains: 8477
+! Version: 20261026120905
+! Last modified: 2026/10/26 12:09:05
+! Blocked domains: 8442
 !
 kwflvcdn.000dn.com
 00k456wyh.com
@@ -690,7 +690,6 @@ stat-58home.58che.com
 5edf1d2qv.com
 5edrgrnqg.com
 5enhjla7z.com
-5etv.com
 5eyal1g5a9.com
 5f1qyi04vz.com
 5h3wnuhr8.com
@@ -820,7 +819,6 @@ kl.67it.com
 6v6.work
 6vspt720xf.com
 6w4ix4bxz1.com
-6xigema.com
 6xu7at70ok.com
 6y10di5jko.com
 6zc7gvmavf.com
@@ -1000,7 +998,6 @@ analytics.95516.com
 9613gwqee.com
 96382zubo66756.com
 96zddjwn2.com
-97sky.cn
 97uvo47k3y.com
 97vk351gi.com
 9800.com
@@ -1195,7 +1192,6 @@ statscollector-2-europe.agora.io
 statscollector-2-oversea.agora.io
 webcollector-rtm.agora.io
 log-collector-fr3.agoralab.co
-rest-argus-ad.agoralab.co
 ahtjhe1bka.com
 ai-kit.cn
 aickw1c4w.com
@@ -1541,7 +1537,6 @@ cbjs.baidu.com
 click.bes.baidu.com
 cm.baidu.com
 collector.dcdn.baidu.com
-console.bce.baidu.com
 cpro.baidu.com
 cpro.zhidao.baidu.com
 cpu.baidu.com
@@ -1826,7 +1821,6 @@ br0vjqh7pe.com
 br4fr61y3p.com
 braised58.top
 brb3mb25zg.com
-brenoes.shop
 brwhome.shop
 bs2site.at
 bsbaswq.cn
@@ -1922,16 +1916,11 @@ pushmsg.camera360.com
 stratus.campaign-image.com.cn
 zc1.campaign-view.com.cn
 count.candou.com
-canjepuntosplus.click
-canjepuntostotal.click
-canjepuntosvip.click
 telemetry.canva.cn
 caomeixz7.xyz
 baidu1.cardbaobao.com
 careless05.com
 cart.net.cn
-cartnests.com
-cartnetsnl.com
 cartx.cloud
 casee.cn
 posthog.casinoplus.top
@@ -2109,7 +2098,6 @@ senlog.cmpassport.com
 cmpxaup.cn
 ggc.cmvideo.cn
 ggx.cmvideo.cn
-cnaa123.com
 ad-api.cnblogs.com
 analytics.cnblogs.com
 adm.cloud.cnfol.com
@@ -2480,7 +2468,6 @@ metrics-picture.dreport.meituan.net.eo.dnse1.com
 tracking.ksztone.com.eo.dnse2.com
 posthog.casinoplus.top.eo.dnse3.com
 akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com
-ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com
 beacon.cdn.qq.com.cdn.dnsv1.com
 dnyzbp.cn
 do-global.com
@@ -2655,15 +2642,11 @@ ecg21n9t8d.com
 ecuc6mmwt.com
 edgeone.app
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-copyright-policy-review-form.edgeone.dev
-kerenare54-dpwekmulre85.edgeone.dev
 lexical-brown-irnlppnt.edgeone.dev
-ofornaogu-dpzv6dife1hh.edgeone.dev
 outlookliveonverification-dp52uq80y4cv.edgeone.dev
 papa.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 sriramnwar-dpoae04723lz.edgeone.dev
-wwwww-dpe7gpnooou7.edgeone.dev
 www.ee99654712225.com
 www.ee99678923512.com
 eevfstl1n.com
@@ -2807,8 +2790,6 @@ sk.fapnado.xxx
 telemetry.farfetch.net.cn
 fastapi.net
 matomo.fatda.cn
-favimeble.shop
-favipl.shop
 fawb62hh9.com
 smetrics.fcbarcelona.cn
 dsp.fcbox.com
@@ -2854,7 +2835,6 @@ fhitagd.cn
 secure.fhserve.com
 www.fhserve.com
 fi0e0xtinp.com
-fighter-shop.shop
 fikppvmul.com
 fileh.xyz
 filei.top
@@ -3334,7 +3314,6 @@ download.haozip.com
 log.dc.cn.happyelements.com
 hapying.com
 hashnest.com
-haveon.shop
 a.hbf23.cn
 hbiaz6xxya.com
 img1.hblds.com
@@ -3593,9 +3572,7 @@ holsat.shop
 homeflashsale-eu.shop
 log.homestyler.com
 homeware-store.shop
-homeyoupl.shop
 homla.fit
-homlaspl.shop
 w88.hongkongdisneyland.com.cn
 usa01-client-report.honkaiimpact3.com
 ads.honor.com
@@ -4546,7 +4523,6 @@ ad.data.lianjia.com
 dig.lianjia.com
 ll-sentry.lianlianpay.com
 adimg.liba.com
-libaishuo.com
 track.libii.cn
 lichunxiao.cn
 liebaovip.com
@@ -4747,7 +4723,6 @@ my-material.zone1.meitudata.com
 stat.meitudata.com
 xiuxiu.mobile.meitudata.com
 meitustat.com
-meivoas.shop
 api-flow.meizu.com
 api-game.meizu.com
 api-push.meizu.com
@@ -5016,7 +4991,6 @@ adcs-ue.myappsget.com
 mycleanmymac.com
 sentry.mydramawave.com
 icons.mydrivers.com
-mygeek.cn
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 hmdev.obs.cn-east-2.myhuaweicloud.com
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -5381,7 +5355,6 @@ pe23ekuk9.com
 a8.jp.peacebird.com
 eloqua.pearsonvue.com.cn
 ped146qez.com
-peiyou.com
 pengauto.cn
 adver.pengyou.com
 penxiangge.com
@@ -5396,7 +5369,6 @@ pfk94y5ke.com
 pfqwbqs.cn
 phbyrmvjn.icu
 smetrics.marketing.lighting.philips.com.cn
-photozoomchina.com
 phr3qfcmb.com
 analytics.pictoflux.com
 adim.pinduoduo.com
@@ -5413,7 +5385,6 @@ bd1.pipaw.com
 pitbulllpl.shop
 pitbullmens.club
 pitbullmensp.shop
-pitbullspl.shop
 pitbullsportsa.shop
 pitbullsportsi.shop
 pitbullsportso.shop
@@ -5428,7 +5399,6 @@ pkdcfefqqf.com
 pkpmhr2gw.com
 pkwnpgsex.com
 pkytxfiin.com
-pl-rituals.club
 pl-ritualsbeat.club
 pl53l7tyw.com
 pl7ncaj0b.com
@@ -6791,7 +6761,6 @@ toutiaopage.com
 tovppl.cn
 tp4d21qek.com
 tqbjevhkgw.icu
-tr-suwen.shop
 tradplus.cn
 tradplus.com
 tradplusad.com
@@ -7470,7 +7439,6 @@ api-z.weidian.com
 logtake.weidian.com
 weidianyuedu.com
 1.weiheshidai.com
-statistic.weimobdc.com
 badjs.weixinbridge.com
 ads.welltalky.cn
 code.wenbanzhu.com
@@ -8212,8 +8180,6 @@ z9sab7vr0b.com
 za5ww9yxg.com
 zaixianvip.cn
 zakladyboleslawiechome-pl.shop
-zakladyboleslawieconsale-pl.shop
-zakladyboleslawieczone-pl.shop
 zalwlz.icu
 zamplus.com
 zantainet.com
@@ -8260,7 +8226,6 @@ push.zhangyue.com
 sys.zhangyue.com
 saad.ms.zhangyue.net
 smad.ms.zhangyue.net
-zhantai.com
 zhanzhang.net
 www.zhaohainan.cn
 mg09.zhaopin.com

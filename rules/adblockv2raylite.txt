@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261026024932
-# Last modified: 2026/10/26 02:49:32
-# Blocked domains: 8477
+# Version: 20261026120905
+# Last modified: 2026/10/26 12:09:05
+# Blocked domains: 8442
 #
 kwflvcdn.000dn.com @ads
 00k456wyh.com @ads
@@ -690,7 +690,6 @@ stat-58home.58che.com @ads
 5edf1d2qv.com @ads
 5edrgrnqg.com @ads
 5enhjla7z.com @ads
-5etv.com @ads
 5eyal1g5a9.com @ads
 5f1qyi04vz.com @ads
 5h3wnuhr8.com @ads
@@ -820,7 +819,6 @@ kl.67it.com @ads
 6v6.work @ads
 6vspt720xf.com @ads
 6w4ix4bxz1.com @ads
-6xigema.com @ads
 6xu7at70ok.com @ads
 6y10di5jko.com @ads
 6zc7gvmavf.com @ads
@@ -1000,7 +998,6 @@ analytics.95516.com @ads
 9613gwqee.com @ads
 96382zubo66756.com @ads
 96zddjwn2.com @ads
-97sky.cn @ads
 97uvo47k3y.com @ads
 97vk351gi.com @ads
 9800.com @ads
@@ -1195,7 +1192,6 @@ statscollector-2-europe.agora.io @ads
 statscollector-2-oversea.agora.io @ads
 webcollector-rtm.agora.io @ads
 log-collector-fr3.agoralab.co @ads
-rest-argus-ad.agoralab.co @ads
 ahtjhe1bka.com @ads
 ai-kit.cn @ads
 aickw1c4w.com @ads
@@ -1541,7 +1537,6 @@ cbjs.baidu.com @ads
 click.bes.baidu.com @ads
 cm.baidu.com @ads
 collector.dcdn.baidu.com @ads
-console.bce.baidu.com @ads
 cpro.baidu.com @ads
 cpro.zhidao.baidu.com @ads
 cpu.baidu.com @ads
@@ -1826,7 +1821,6 @@ br0vjqh7pe.com @ads
 br4fr61y3p.com @ads
 braised58.top @ads
 brb3mb25zg.com @ads
-brenoes.shop @ads
 brwhome.shop @ads
 bs2site.at @ads
 bsbaswq.cn @ads
@@ -1922,16 +1916,11 @@ pushmsg.camera360.com @ads
 stratus.campaign-image.com.cn @ads
 zc1.campaign-view.com.cn @ads
 count.candou.com @ads
-canjepuntosplus.click @ads
-canjepuntostotal.click @ads
-canjepuntosvip.click @ads
 telemetry.canva.cn @ads
 caomeixz7.xyz @ads
 baidu1.cardbaobao.com @ads
 careless05.com @ads
 cart.net.cn @ads
-cartnests.com @ads
-cartnetsnl.com @ads
 cartx.cloud @ads
 casee.cn @ads
 posthog.casinoplus.top @ads
@@ -2109,7 +2098,6 @@ senlog.cmpassport.com @ads
 cmpxaup.cn @ads
 ggc.cmvideo.cn @ads
 ggx.cmvideo.cn @ads
-cnaa123.com @ads
 ad-api.cnblogs.com @ads
 analytics.cnblogs.com @ads
 adm.cloud.cnfol.com @ads
@@ -2480,7 +2468,6 @@ metrics-picture.dreport.meituan.net.eo.dnse1.com @ads
 tracking.ksztone.com.eo.dnse2.com @ads
 posthog.casinoplus.top.eo.dnse3.com @ads
 akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com @ads
-ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com @ads
 beacon.cdn.qq.com.cdn.dnsv1.com @ads
 dnyzbp.cn @ads
 do-global.com @ads
@@ -2655,15 +2642,11 @@ ecg21n9t8d.com @ads
 ecuc6mmwt.com @ads
 edgeone.app @ads
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev @ads
-copyright-policy-review-form.edgeone.dev @ads
-kerenare54-dpwekmulre85.edgeone.dev @ads
 lexical-brown-irnlppnt.edgeone.dev @ads
-ofornaogu-dpzv6dife1hh.edgeone.dev @ads
 outlookliveonverification-dp52uq80y4cv.edgeone.dev @ads
 papa.edgeone.dev @ads
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
 sriramnwar-dpoae04723lz.edgeone.dev @ads
-wwwww-dpe7gpnooou7.edgeone.dev @ads
 www.ee99654712225.com @ads
 www.ee99678923512.com @ads
 eevfstl1n.com @ads
@@ -2807,8 +2790,6 @@ sk.fapnado.xxx @ads
 telemetry.farfetch.net.cn @ads
 fastapi.net @ads
 matomo.fatda.cn @ads
-favimeble.shop @ads
-favipl.shop @ads
 fawb62hh9.com @ads
 smetrics.fcbarcelona.cn @ads
 dsp.fcbox.com @ads
@@ -2854,7 +2835,6 @@ fhitagd.cn @ads
 secure.fhserve.com @ads
 www.fhserve.com @ads
 fi0e0xtinp.com @ads
-fighter-shop.shop @ads
 fikppvmul.com @ads
 fileh.xyz @ads
 filei.top @ads
@@ -3334,7 +3314,6 @@ download.haozip.com @ads
 log.dc.cn.happyelements.com @ads
 hapying.com @ads
 hashnest.com @ads
-haveon.shop @ads
 a.hbf23.cn @ads
 hbiaz6xxya.com @ads
 img1.hblds.com @ads
@@ -3593,9 +3572,7 @@ holsat.shop @ads
 homeflashsale-eu.shop @ads
 log.homestyler.com @ads
 homeware-store.shop @ads
-homeyoupl.shop @ads
 homla.fit @ads
-homlaspl.shop @ads
 w88.hongkongdisneyland.com.cn @ads
 usa01-client-report.honkaiimpact3.com @ads
 ads.honor.com @ads
@@ -4546,7 +4523,6 @@ ad.data.lianjia.com @ads
 dig.lianjia.com @ads
 ll-sentry.lianlianpay.com @ads
 adimg.liba.com @ads
-libaishuo.com @ads
 track.libii.cn @ads
 lichunxiao.cn @ads
 liebaovip.com @ads
@@ -4747,7 +4723,6 @@ my-material.zone1.meitudata.com @ads
 stat.meitudata.com @ads
 xiuxiu.mobile.meitudata.com @ads
 meitustat.com @ads
-meivoas.shop @ads
 api-flow.meizu.com @ads
 api-game.meizu.com @ads
 api-push.meizu.com @ads
@@ -5016,7 +4991,6 @@ adcs-ue.myappsget.com @ads
 mycleanmymac.com @ads
 sentry.mydramawave.com @ads
 icons.mydrivers.com @ads
-mygeek.cn @ads
 ceshi127722.obs.cn-north-4.myhuaweicloud.com @ads
 hmdev.obs.cn-east-2.myhuaweicloud.com @ads
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com @ads
@@ -5381,7 +5355,6 @@ pe23ekuk9.com @ads
 a8.jp.peacebird.com @ads
 eloqua.pearsonvue.com.cn @ads
 ped146qez.com @ads
-peiyou.com @ads
 pengauto.cn @ads
 adver.pengyou.com @ads
 penxiangge.com @ads
@@ -5396,7 +5369,6 @@ pfk94y5ke.com @ads
 pfqwbqs.cn @ads
 phbyrmvjn.icu @ads
 smetrics.marketing.lighting.philips.com.cn @ads
-photozoomchina.com @ads
 phr3qfcmb.com @ads
 analytics.pictoflux.com @ads
 adim.pinduoduo.com @ads
@@ -5413,7 +5385,6 @@ bd1.pipaw.com @ads
 pitbulllpl.shop @ads
 pitbullmens.club @ads
 pitbullmensp.shop @ads
-pitbullspl.shop @ads
 pitbullsportsa.shop @ads
 pitbullsportsi.shop @ads
 pitbullsportso.shop @ads
@@ -5428,7 +5399,6 @@ pkdcfefqqf.com @ads
 pkpmhr2gw.com @ads
 pkwnpgsex.com @ads
 pkytxfiin.com @ads
-pl-rituals.club @ads
 pl-ritualsbeat.club @ads
 pl53l7tyw.com @ads
 pl7ncaj0b.com @ads
@@ -6791,7 +6761,6 @@ toutiaopage.com @ads
 tovppl.cn @ads
 tp4d21qek.com @ads
 tqbjevhkgw.icu @ads
-tr-suwen.shop @ads
 tradplus.cn @ads
 tradplus.com @ads
 tradplusad.com @ads
@@ -7470,7 +7439,6 @@ api-z.weidian.com @ads
 logtake.weidian.com @ads
 weidianyuedu.com @ads
 1.weiheshidai.com @ads
-statistic.weimobdc.com @ads
 badjs.weixinbridge.com @ads
 ads.welltalky.cn @ads
 code.wenbanzhu.com @ads
@@ -8212,8 +8180,6 @@ z9sab7vr0b.com @ads
 za5ww9yxg.com @ads
 zaixianvip.cn @ads
 zakladyboleslawiechome-pl.shop @ads
-zakladyboleslawieconsale-pl.shop @ads
-zakladyboleslawieczone-pl.shop @ads
 zalwlz.icu @ads
 zamplus.com @ads
 zantainet.com @ads
@@ -8260,7 +8226,6 @@ push.zhangyue.com @ads
 sys.zhangyue.com @ads
 saad.ms.zhangyue.net @ads
 smad.ms.zhangyue.net @ads
-zhantai.com @ads
 zhanzhang.net @ads
 www.zhaohainan.cn @ads
 mg09.zhaopin.com @ads

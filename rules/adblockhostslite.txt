@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20261026024932
-# Last modified: 2026/10/26 02:49:32
-# Blocked domains: 8477
+# Version: 20261026120905
+# Last modified: 2026/10/26 12:09:05
+# Blocked domains: 8442
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -705,7 +705,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	5edf1d2qv.com
 0.0.0.0	5edrgrnqg.com
 0.0.0.0	5enhjla7z.com
-0.0.0.0	5etv.com
 0.0.0.0	5eyal1g5a9.com
 0.0.0.0	5f1qyi04vz.com
 0.0.0.0	5h3wnuhr8.com
@@ -835,7 +834,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	6v6.work
 0.0.0.0	6vspt720xf.com
 0.0.0.0	6w4ix4bxz1.com
-0.0.0.0	6xigema.com
 0.0.0.0	6xu7at70ok.com
 0.0.0.0	6y10di5jko.com
 0.0.0.0	6zc7gvmavf.com
@@ -1015,7 +1013,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	9613gwqee.com
 0.0.0.0	96382zubo66756.com
 0.0.0.0	96zddjwn2.com
-0.0.0.0	97sky.cn
 0.0.0.0	97uvo47k3y.com
 0.0.0.0	97vk351gi.com
 0.0.0.0	9800.com
@@ -1210,7 +1207,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	statscollector-2-oversea.agora.io
 0.0.0.0	webcollector-rtm.agora.io
 0.0.0.0	log-collector-fr3.agoralab.co
-0.0.0.0	rest-argus-ad.agoralab.co
 0.0.0.0	ahtjhe1bka.com
 0.0.0.0	ai-kit.cn
 0.0.0.0	aickw1c4w.com
@@ -1556,7 +1552,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.bes.baidu.com
 0.0.0.0	cm.baidu.com
 0.0.0.0	collector.dcdn.baidu.com
-0.0.0.0	console.bce.baidu.com
 0.0.0.0	cpro.baidu.com
 0.0.0.0	cpro.zhidao.baidu.com
 0.0.0.0	cpu.baidu.com
@@ -1841,7 +1836,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	br4fr61y3p.com
 0.0.0.0	braised58.top
 0.0.0.0	brb3mb25zg.com
-0.0.0.0	brenoes.shop
 0.0.0.0	brwhome.shop
 0.0.0.0	bs2site.at
 0.0.0.0	bsbaswq.cn
@@ -1937,16 +1931,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	stratus.campaign-image.com.cn
 0.0.0.0	zc1.campaign-view.com.cn
 0.0.0.0	count.candou.com
-0.0.0.0	canjepuntosplus.click
-0.0.0.0	canjepuntostotal.click
-0.0.0.0	canjepuntosvip.click
 0.0.0.0	telemetry.canva.cn
 0.0.0.0	caomeixz7.xyz
 0.0.0.0	baidu1.cardbaobao.com
 0.0.0.0	careless05.com
 0.0.0.0	cart.net.cn
-0.0.0.0	cartnests.com
-0.0.0.0	cartnetsnl.com
 0.0.0.0	cartx.cloud
 0.0.0.0	casee.cn
 0.0.0.0	posthog.casinoplus.top
@@ -2124,7 +2113,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cmpxaup.cn
 0.0.0.0	ggc.cmvideo.cn
 0.0.0.0	ggx.cmvideo.cn
-0.0.0.0	cnaa123.com
 0.0.0.0	ad-api.cnblogs.com
 0.0.0.0	analytics.cnblogs.com
 0.0.0.0	adm.cloud.cnfol.com
@@ -2495,7 +2483,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.ksztone.com.eo.dnse2.com
 0.0.0.0	posthog.casinoplus.top.eo.dnse3.com
 0.0.0.0	akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com
-0.0.0.0	ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com
 0.0.0.0	beacon.cdn.qq.com.cdn.dnsv1.com
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
@@ -2670,15 +2657,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	ecuc6mmwt.com
 0.0.0.0	edgeone.app
 0.0.0.0	balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-0.0.0.0	copyright-policy-review-form.edgeone.dev
-0.0.0.0	kerenare54-dpwekmulre85.edgeone.dev
 0.0.0.0	lexical-brown-irnlppnt.edgeone.dev
-0.0.0.0	ofornaogu-dpzv6dife1hh.edgeone.dev
 0.0.0.0	outlookliveonverification-dp52uq80y4cv.edgeone.dev
 0.0.0.0	papa.edgeone.dev
 0.0.0.0	profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0	sriramnwar-dpoae04723lz.edgeone.dev
-0.0.0.0	wwwww-dpe7gpnooou7.edgeone.dev
 0.0.0.0	www.ee99654712225.com
 0.0.0.0	www.ee99678923512.com
 0.0.0.0	eevfstl1n.com
@@ -2822,8 +2805,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	telemetry.farfetch.net.cn
 0.0.0.0	fastapi.net
 0.0.0.0	matomo.fatda.cn
-0.0.0.0	favimeble.shop
-0.0.0.0	favipl.shop
 0.0.0.0	fawb62hh9.com
 0.0.0.0	smetrics.fcbarcelona.cn
 0.0.0.0	dsp.fcbox.com
@@ -2869,7 +2850,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	secure.fhserve.com
 0.0.0.0	www.fhserve.com
 0.0.0.0	fi0e0xtinp.com
-0.0.0.0	fighter-shop.shop
 0.0.0.0	fikppvmul.com
 0.0.0.0	fileh.xyz
 0.0.0.0	filei.top
@@ -3349,7 +3329,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.dc.cn.happyelements.com
 0.0.0.0	hapying.com
 0.0.0.0	hashnest.com
-0.0.0.0	haveon.shop
 0.0.0.0	a.hbf23.cn
 0.0.0.0	hbiaz6xxya.com
 0.0.0.0	img1.hblds.com
@@ -3608,9 +3587,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	homeflashsale-eu.shop
 0.0.0.0	log.homestyler.com
 0.0.0.0	homeware-store.shop
-0.0.0.0	homeyoupl.shop
 0.0.0.0	homla.fit
-0.0.0.0	homlaspl.shop
 0.0.0.0	w88.hongkongdisneyland.com.cn
 0.0.0.0	usa01-client-report.honkaiimpact3.com
 0.0.0.0	ads.honor.com
@@ -4561,7 +4538,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dig.lianjia.com
 0.0.0.0	ll-sentry.lianlianpay.com
 0.0.0.0	adimg.liba.com
-0.0.0.0	libaishuo.com
 0.0.0.0	track.libii.cn
 0.0.0.0	lichunxiao.cn
 0.0.0.0	liebaovip.com
@@ -4762,7 +4738,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.meitudata.com
 0.0.0.0	xiuxiu.mobile.meitudata.com
 0.0.0.0	meitustat.com
-0.0.0.0	meivoas.shop
 0.0.0.0	api-flow.meizu.com
 0.0.0.0	api-game.meizu.com
 0.0.0.0	api-push.meizu.com
@@ -5031,7 +5006,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	mycleanmymac.com
 0.0.0.0	sentry.mydramawave.com
 0.0.0.0	icons.mydrivers.com
-0.0.0.0	mygeek.cn
 0.0.0.0	ceshi127722.obs.cn-north-4.myhuaweicloud.com
 0.0.0.0	hmdev.obs.cn-east-2.myhuaweicloud.com
 0.0.0.0	nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -5396,7 +5370,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a8.jp.peacebird.com
 0.0.0.0	eloqua.pearsonvue.com.cn
 0.0.0.0	ped146qez.com
-0.0.0.0	peiyou.com
 0.0.0.0	pengauto.cn
 0.0.0.0	adver.pengyou.com
 0.0.0.0	penxiangge.com
@@ -5411,7 +5384,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pfqwbqs.cn
 0.0.0.0	phbyrmvjn.icu
 0.0.0.0	smetrics.marketing.lighting.philips.com.cn
-0.0.0.0	photozoomchina.com
 0.0.0.0	phr3qfcmb.com
 0.0.0.0	analytics.pictoflux.com
 0.0.0.0	adim.pinduoduo.com
@@ -5428,7 +5400,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pitbulllpl.shop
 0.0.0.0	pitbullmens.club
 0.0.0.0	pitbullmensp.shop
-0.0.0.0	pitbullspl.shop
 0.0.0.0	pitbullsportsa.shop
 0.0.0.0	pitbullsportsi.shop
 0.0.0.0	pitbullsportso.shop
@@ -5443,7 +5414,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	pkpmhr2gw.com
 0.0.0.0	pkwnpgsex.com
 0.0.0.0	pkytxfiin.com
-0.0.0.0	pl-rituals.club
 0.0.0.0	pl-ritualsbeat.club
 0.0.0.0	pl53l7tyw.com
 0.0.0.0	pl7ncaj0b.com
@@ -6806,7 +6776,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tovppl.cn
 0.0.0.0	tp4d21qek.com
 0.0.0.0	tqbjevhkgw.icu
-0.0.0.0	tr-suwen.shop
 0.0.0.0	tradplus.cn
 0.0.0.0	tradplus.com
 0.0.0.0	tradplusad.com
@@ -7485,7 +7454,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	logtake.weidian.com
 0.0.0.0	weidianyuedu.com
 0.0.0.0	1.weiheshidai.com
-0.0.0.0	statistic.weimobdc.com
 0.0.0.0	badjs.weixinbridge.com
 0.0.0.0	ads.welltalky.cn
 0.0.0.0	code.wenbanzhu.com
@@ -8227,8 +8195,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	za5ww9yxg.com
 0.0.0.0	zaixianvip.cn
 0.0.0.0	zakladyboleslawiechome-pl.shop
-0.0.0.0	zakladyboleslawieconsale-pl.shop
-0.0.0.0	zakladyboleslawieczone-pl.shop
 0.0.0.0	zalwlz.icu
 0.0.0.0	zamplus.com
 0.0.0.0	zantainet.com
@@ -8275,7 +8241,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sys.zhangyue.com
 0.0.0.0	saad.ms.zhangyue.net
 0.0.0.0	smad.ms.zhangyue.net
-0.0.0.0	zhantai.com
 0.0.0.0	zhanzhang.net
 0.0.0.0	www.zhaohainan.cn
 0.0.0.0	mg09.zhaopin.com
