@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261027045731
-! Last modified: 2026/10/27 04:57:31
+! Version: 20261027122836
+! Last modified: 2026/10/27 12:28:36
 ! Blocked Filters: 102704
 !
 ###AC_ad
@@ -20310,6 +20310,8 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 /post-views-counter-pro/js/frontend.js
 /post.pinterest.com/q/*$image
 /postcounter.php?
+/poster/zj-gd.js
+/poster/zj-mhz-ding.js
 /posthog-recorder.js
 /postlog?
 /postview.gif?
@@ -49252,7 +49254,7 @@ findagrave.com##.fg-prad
 findagrave.com#?#.rounded-pill:contains(Remove Ads)
 findagrave.com#?#.rounded-pill:has-text(Remove Ads)
 findatherapist.com##.sponsoredlisting
-findaudiobook.com,pclicious.net,katmoviehd.*,nhlstream.net,nbastream.net###sidebar > #text-3
+findaudiobook.com,katmoviehd.*,nhlstream.net,nbastream.net###sidebar > #text-3
 findgaytube.com#?#.random-container > .wrapper > .b-head-title.recommend:contains(Advertisement)
 findlaw.cn###wlcommonbot
 findmysoft.com###as_336
@@ -67519,8 +67521,6 @@ pchome.net###pchome_970_90_a
 pchome.net###rightbar
 pcinvasion.com#?#.sticky-sidebar-wrapper:has(> #sticky-sidebar > .sticky-sidebar__inner > div[data-freestar-ad])
 pcinvasion.com#?#.sticky-sidebar-wrapper:has(> .units > div[data-freestar-ad])
-pclicious.net###quads-myModal
-pclicious.net#%#//scriptlet("set-constant", "wpquads_adblocker_check_2", "true")
 pcmacstore.com##.mobileHide
 pcmag.com###adkit_footer
 pcmag.com###uswitch_widget_container
