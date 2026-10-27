@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261027122837
-# Last modified: 2026/10/27 12:28:37
-# Blocked domains: 8480
+# Version: 20261027221517
+# Last modified: 2026/10/27 22:15:17
+# Blocked domains: 8519
 #
 kwflvcdn.000dn.com @ads
 00k456wyh.com @ads
@@ -68,6 +68,7 @@ o.027eat.com @ads
 0l7t5qhb4.com @ads
 0lai5bvkg.com @ads
 0mkeb9vth.com @ads
+0nh9bt6v6a.com @ads
 0nyzdw2maq.com @ads
 0oi1ej7mo.com @ads
 0oo9j37xp.com @ads
@@ -181,6 +182,7 @@ nex.163.com @ads
 online-logger.webapp.163.com @ads
 r.mail.163.com @ads
 sentry.epay.163.com @ads
+sentry.music.163.com @ads
 temp.163.com @ads
 timejs.game.163.com @ads
 yaolu.mh.163.com @ads
@@ -484,6 +486,7 @@ uu1.3gu.com @ads
 3is34bpqs4.com @ads
 3iulae112b.com @ads
 3j4vjpx7k.com @ads
+3jkb97w0tp.com @ads
 3k2frl8r79.com @ads
 3lbqpzrlmz.com @ads
 3llzzztmz.com @ads
@@ -1094,6 +1097,7 @@ www.ab7898962261.net @ads
 www.ab8965471225.net @ads
 www.ab8965471225.vip @ads
 abbyychina.com @ads
+metrics.abercrombie.cn @ads
 smetrics.abercrombie.cn @ads
 discover.absciex.com.cn @ads
 ac00qmnjz.com @ads
@@ -1125,6 +1129,7 @@ adiy42o0w.com @ads
 adjust.cn @ads
 adlive.cn @ads
 admaster.com.cn @ads
+admate.cn @ads
 admin5.com @ads
 admin6.com @ads
 adminer.com @ads
@@ -1449,6 +1454,7 @@ ftwo-feedback.autohome.com.cn @ads
 ftwo-receiver.autohome.com.cn @ads
 idm.api.autohome.com.cn @ads
 pcd.autohome.com.cn @ads
+pcmx.autohome.com.cn @ads
 push.app.autohome.com.cn @ads
 pvx.autohome.com.cn @ads
 rd.autohome.com.cn @ads
@@ -1509,6 +1515,7 @@ tjinit-event.babybus.com @ads
 tjinit-global-register.babybus.com @ads
 ime-ad-reporter.badambiz.com @ads
 qmlog.baertt.com @ads
+bagmarket.shop @ads
 advertise.baicizhan.com @ads
 events.baicizhan.com @ads
 a.baidinet.com @ads
@@ -1655,6 +1662,7 @@ baidustatic.com @ads
 baifendian.com @ads
 ad.baihemob.com @ads
 pic.baihuawen.cn @ads
+sentry.baijia.com @ads
 baixing.com @ads
 bd-s.baixing.net @ads
 script-bd.baixing.net @ads
@@ -1672,6 +1680,7 @@ active.baofeng.com @ads
 midinfo.baofeng.com @ads
 config.baofeng.net @ads
 ploy.baofeng.net @ads
+a.baomihua.com @ads
 resource.baomihua.com @ads
 bartender.cc @ads
 telemetry-in.battlenet.com.cn @ads
@@ -1683,6 +1692,7 @@ bbcoe.cn @ads
 event.bblmw.com @ads
 perf.bblmw.com @ads
 bbqy4ihvz9.com @ads
+bc4zqavx5d.com @ads
 baiducom.bj.bcebos.com @ads
 bjh-pixel.cdn.bcebos.com @ads
 dingbu.bj.bcebos.com @ads
@@ -1953,7 +1963,6 @@ ads5-normal.zijieapi.com.c.dsa.cdnbuild.net @ads
 tracker.cdnbye.com @ads
 ads-i2.xhscdn.com.w.cdngslb.com @ads
 ads-img-al.xhscdn.com.w.cdngslb.com @ads
-ads-splash-i2.xhscdn.com.w.cdngslb.com @ads
 ads-video-al.xhscdn.com.w.cdngslb.com @ads
 ads3-normal-hl.zijieapi.com.w.cdngslb.com @ads
 ads3-normal-lf.zijieapi.com.w.cdngslb.com @ads
@@ -2044,6 +2053,7 @@ api-ad.chuangyuejoy.com @ads
 y66xvgo5i.chuimg.com @ads
 bugly.chujingapp.com @ads
 hpplay.cdn.cibn.cc @ads
+pl.cp31.ott.cibntv.net @ads
 valf.atm.cp31.ott.cibntv.net @ads
 vali-g1.cp31.ott.cibntv.net @ads
 yk-ssp-ad.cp31.ott.cibntv.net @ads
@@ -2402,6 +2412,7 @@ trackercollect.ddxq.mobi @ads
 trackerfeed.ddxq.mobi @ads
 analytics.dealmoon.com @ads
 sentry.deemos.com @ads
+deepseek404.com @ads
 deliginess.pro @ads
 aem.dentsuchina.cn @ads
 www.destinationurl.com @ads
@@ -2433,7 +2444,6 @@ dianru.com @ads
 ad.didi-food.com @ads
 ad-log.didiglobal.com @ads
 ads.didiglobal.com @ads
-omgup.didiglobal.com @ads
 sentry-us.didiglobal.com @ads
 bea-s.dinghuoche.com @ads
 resolver.dingtalk.com @ads
@@ -2524,6 +2534,7 @@ dqgrr623c.com @ads
 drawers06.com @ads
 drdwy.com @ads
 drivethelife.com @ads
+go.drtuberlive.com @ads
 ds8k3y2d5n.com @ads
 dseulm.shop @ads
 dshsnxfcjwdhpe.com @ads
@@ -2650,6 +2661,7 @@ outlookliveonverification-dp52uq80y4cv.edgeone.dev @ads
 papa.edgeone.dev @ads
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
 sriramnwar-dpoae04723lz.edgeone.dev @ads
+ediuschina.com @ads
 www.ee99654712225.com @ads
 www.ee99678923512.com @ads
 eevfstl1n.com @ads
@@ -2787,7 +2799,6 @@ countpvn.light.fang.com @ads
 mshow.fang.com @ads
 sentry-web.fantuan.ca @ads
 fanyi100.com.cn @ads
-fanzhuang.net.cn @ads
 faoda4xd2.com @ads
 sk.fapnado.xxx @ads
 telemetry.farfetch.net.cn @ads
@@ -2843,8 +2854,8 @@ fileh.xyz @ads
 filei.top @ads
 fileshider.com @ads
 fillbpi.com @ads
+sentry.findaya.co.id @ads
 spatial.fineboost.com @ads
-api.firwinds.site @ads
 fiwyjar.cn @ads
 fjalsr83a6.com @ads
 fjpopxgyfrlxvc.com @ads
@@ -2898,7 +2909,6 @@ mon11-misc.fqnovel.com @ads
 mon11-misc-lf.fqnovel.com @ads
 mon11-misc-lq.fqnovel.com @ads
 mon3-misc-lf.fqnovel.com @ads
-rtlog3-applog.fqnovel.com @ads
 rtlog3-applog-hl.fqnovel.com @ads
 rtlog3-applog-lf.fqnovel.com @ads
 rtlog3-applog-lq.fqnovel.com @ads
@@ -3432,6 +3442,7 @@ virusinfo-cloudscan-cn.heytapmobi.com @ads
 adx-op-sg.heytapmobile.com @ads
 adx-u-sg.heytapmobile.com @ads
 api-gl.cdo.heytapmobile.com @ads
+browser-api-th.heytapmobile.com @ads
 cloudconf-app-bd.heytapmobile.com @ads
 cloudconf-app-eg.heytapmobile.com @ads
 cloudconf-app-id.heytapmobile.com @ads
@@ -3602,6 +3613,7 @@ hkrpg-log-upload-os.hoyoverse.com @ads
 log-upload-os.hoyoverse.com @ads
 sdk-log-upload-os.hoyoverse.com @ads
 sdk-os-static.hoyoverse.com @ads
+sentry.eks.hoyoverse.com @ads
 sg-public-data-api.hoyoverse.com @ads
 ys-log-upload-os.hoyoverse.com @ads
 zzz-log-upload-os.hoyoverse.com @ads
@@ -3876,6 +3888,7 @@ invvuu9js.com @ads
 inzy3qq8q.com @ads
 ioiksw.cn @ads
 umami.ioiox.net @ads
+iotj6oo90.com @ads
 iowj5jof2.com @ads
 c81.ipanocloud.com @ads
 iper2.com @ads
@@ -4052,7 +4065,6 @@ jhzfwl.cn @ads
 jia183d6v.com @ads
 wj.jiancai365.cn @ads
 ads.jianchiapp.com @ads
-sentry.jiandaoyun.com @ads
 acc.jiangsujiaxue.com @ads
 ahm.jiankang123.net @ads
 jiankongbao.com @ads
@@ -4358,10 +4370,8 @@ kuheju.com @ads
 kuk8.com @ads
 h1.kukuw.com @ads
 ocdn.ad.xelements.cn.w.kunlunaq.com @ads
-adimage.bwton.com.w.kunluncan.com @ads
 p3-ad-sign.byteimg.com.w.kunluncan.com @ads
 img.adnyg.com.w.kunlungr.com @ads
-web-sentry.kurogame.com @ads
 web-sentry.kurogame.net @ads
 qcloud-sg-datareceiver.kurogame.xyz @ads
 adsrv.kurogames.com @ads
@@ -4455,6 +4465,7 @@ lcqbi7nsv.com @ads
 lcqeurxbcj.icu @ads
 lcrebbqmvlbtno.com @ads
 lctpvmaxz.icu @ads
+ld1qwww3kj.com @ads
 ldhy.click @ads
 mnqlog.ldmnq.com @ads
 storeen.ldmnq.com @ads
@@ -4549,6 +4560,7 @@ tx-p2p-pull.live-voip.com @ads
 ws-p2p-pull.live-voip.com @ads
 lj43bm3y8.com @ads
 ljvt4pnl9.com @ads
+ljyzic8cr.com @ads
 lk0v8teerw.com @ads
 lk54dfg87.com @ads
 lkme.cc @ads
@@ -4584,6 +4596,7 @@ lomark.cn @ads
 lomvmz5ze3.com @ads
 looyu.com @ads
 lopwds.shop @ads
+loreudkl.shop @ads
 game.loveota.com @ads
 sdk.loveota.net @ads
 lp340p7czf.com @ads
@@ -4759,12 +4772,12 @@ tracking.t.mercedes-benz.com.cn @ads
 metaversemolecule.com @ads
 metaword.cn @ads
 analytics.metro.cn @ads
+sentry-web.mexdin.mx @ads
 mf6xyfh3c.com @ads
 a.mfcad.net @ads
 mfxyqh.cn @ads
 mg0pfou5o.com @ads
 mgky6yjwq.com @ads
-audit.aaa.mgtv.com @ads
 disp.titan.mgtv.com @ads
 mobaliyun.res.mgtv.com @ads
 ott-v0-al.data.mgtv.com @ads
@@ -4991,7 +5004,6 @@ mxevdii.cn @ads
 mxh4h.com @ads
 my-hr.cn @ads
 my1746vnm.com @ads
-ads.api.my7v.com @ads
 apiyd.my91app.com @ads
 mya2pg8cdg.com @ads
 api.myadsget.com @ads
@@ -5190,6 +5202,7 @@ o17kbwlq9p.com @ads
 o1fhfeu6qa.com @ads
 o28wg9kq8i.com @ads
 o40d17vln.com @ads
+o522zsxbgf.com @ads
 o5y2zd1lq8.com @ads
 o6oxvugdl.com @ads
 o6vmp2h9k0.com @ads
@@ -5201,6 +5214,9 @@ oa83fs5udz.com @ads
 oaclrst.cn @ads
 oadz.com @ads
 gtm.oasisfeng.com @ads
+obs.com.cn @ads
+obscj.com @ads
+obsproject.com.cn @ads
 obsworks.com @ads
 obv3epx22d.com @ads
 ocbagmarket.shop @ads
@@ -5293,6 +5309,7 @@ turbo2sdk-push.oupeng.com @ads
 ad.ourgame.com @ads
 ourl.cn @ads
 ad.ourplay.com.cn @ads
+ad.ourplay.net @ads
 at-af.outfit7.com @ads
 bidder.dsp.outfit7.com @ads
 hb-af-us-central1.outfit7.com @ads
@@ -5351,6 +5368,7 @@ pb1b7cqwvs.com @ads
 pbaiyho.cn @ads
 pbeldhnbk.com @ads
 pbo8y8igrp.com @ads
+m.pc6.com @ads
 ipad.pc899.cn @ads
 count.pcauto.com.cn @ads
 pcmxcdjbgo.com @ads
@@ -5557,6 +5575,7 @@ za.qeeq.com @ads
 qemh16ihyw.com @ads
 qezkdby1jj.com @ads
 qezpjlp.cn @ads
+qf21yrnmnk.com @ads
 qf51ho9qtz.com @ads
 qfc4ac1f6.com @ads
 qfcdgy.cn @ads
@@ -5577,6 +5596,7 @@ haostat.qihoo.com @ads
 js.passport.qihucdn.com @ads
 qijpaih.cn @ads
 roibest-report-sdk.qiliangjia.com @ads
+miniapp.qiluyidian.mobi @ads
 qim0lvk6m.com @ads
 up.qingdaonews.com @ads
 bdcode.qinglue.com @ads
@@ -6052,6 +6072,7 @@ ruoky41k7a.com @ads
 rvbavxtjy.icu @ads
 rvbztg.cn @ads
 rvrl1srlq.com @ads
+rvzlobj.cn @ads
 rw56y62bgg.com @ads
 rwhyrlb8r2.com @ads
 rwilwcovop.icu @ads
@@ -6132,6 +6153,7 @@ reportsk.web.sdo.com @ads
 analytics.apps.seabroadnet.com @ads
 lf3-ad.searchpstatp.com @ads
 sentry.seayoo.com @ads
+sentry.seekoo.io @ads
 ad.seeyouyima.com @ads
 trace.seeyouyima.com @ads
 analytics.selfboot.cn @ads
@@ -6162,7 +6184,6 @@ httpdns.n.shifen.com @ads
 jpaasne.e.shifen.com @ads
 statichf.shihuocdn.cn @ads
 shilian168.cn @ads
-analysis.shixunsuda.com @ads
 ad.shobo.cn @ads
 1.shopit.cn @ads
 sentry.shoplazza.com @ads
@@ -6695,12 +6716,12 @@ info.thermoscientific.cn @ads
 sstats.thermoscientific.cn @ads
 stats.thermoscientific.cn @ads
 thgh902ny.com @ads
-sentry.things-x.com @ads
 analytics.thinkingcloud.net @ads
 thinkingdata.cn @ads
 thj36m3dm.com @ads
 trk.thomas-pump.cn @ads
 trail.thomsonreuters.cn @ads
+umami.thousandrealms.win @ads
 ad.thsi.cn @ads
 thuk8hg48.com @ads
 tracking.mail.ti.com.cn @ads
@@ -6724,6 +6745,7 @@ a.tiyuxiu.com @ads
 tjfskxz0t6.com @ads
 tjfytech.com @ads
 tjnwfjy.cn @ads
+tjsptech.com @ads
 tk11rxjhvm.com @ads
 tk71mu9u7.com @ads
 tkvfayv59.com @ads
@@ -6756,6 +6778,7 @@ toponad.net @ads
 toppdf.co @ads
 topsem.com @ads
 static.topxgun.com @ads
+touch-moblie.com @ads
 sentry.touchchat.me @ads
 touclick.com @ads
 toushibao.com @ads
@@ -6805,6 +6828,7 @@ tsdtvcx579.com @ads
 tsjt0k8wa.com @ads
 tslkd9ygnh.com @ads
 tt144jrfu.com @ads
+tt5omubqh.com @ads
 ttdbh.com @ads
 ttnjhlhys.icu @ads
 www.ttyyuuoo.com @ads
@@ -6819,6 +6843,7 @@ api.tusdk.com @ads
 asdkd.tutuapp.com @ads
 log.tutuapp.com @ads
 smetrics.tuvsud.cn @ads
+tuxcpf6pq.com @ads
 log.tv360.vn @ads
 tva4k92u14.com @ads
 tvabqt.cn @ads
@@ -6836,7 +6861,6 @@ txd8s0oif.com @ads
 txecluzx7.com @ads
 beacon.txfund.com @ads
 txh201a51k.com @ads
-txhywh.cn @ads
 txkepwuxr.com @ads
 livetech.shopee.co.id.txlivecdn.com @ads
 livetech.shopee.com.br.txlivecdn.com @ads
@@ -7250,6 +7274,7 @@ kz-vcode-api.vivoglobal.com @ads
 kz-vcode-od.vivoglobal.com @ads
 kz-vcode-or.vivoglobal.com @ads
 mx-album-api.vivoglobal.com @ads
+mx-cota.vivoglobal.com @ads
 mx-domaincfg.vivoglobal.com @ads
 mx-err-up.vivoglobal.com @ads
 mx-onrt-stsdk.vivoglobal.com @ads
@@ -7452,6 +7477,7 @@ log.wechatpay.cn @ads
 dads.wedobest.com.cn @ads
 event.wedobest.com.cn @ads
 event.stat.wedobest.com.cn @ads
+sentry-sa.weelife3d.com @ads
 wefk2dgegr.com @ads
 weh5lofraa.com @ads
 weiakbtck.com @ads
@@ -7633,6 +7659,7 @@ xbam7box6.com @ads
 enappstat.xbext.com @ads
 enstat.xbext.com @ads
 xbold171e.com @ads
+sentry.xboxmechanichead.com @ads
 xbtw.com @ads
 xc5r5huxrr.com @ads
 xcafuqqbgb.icu @ads
@@ -7715,8 +7742,6 @@ store.xiaohongshu.com @ads
 t2.xiaohongshu.com @ads
 xiaojifly.cn @ads
 adtrack.xiaojukeji.com @ads
-omgup.xiaojukeji.com @ads
-omgup1.xiaojukeji.com @ads
 sentry.xiaomawang.com @ads
 api.d.xiaomi.com @ads
 api.hybrid.xiaomi.com @ads
@@ -7728,6 +7753,7 @@ appstore.cdn.pandora.xiaomi.com @ads
 appstore.pandora.xiaomi.com @ads
 awssgp0-files.fds.api.xiaomi.com @ads
 bigdata-lbs-pri-c3.alb.xiaomi.com @ads
+box.pandora.xiaomi.com @ads
 bss.pandora.xiaomi.com @ads
 cdn-exp-sg-recommend.pt.xiaomi.com @ads
 cdn.exp.xiaomi.com @ads
@@ -7771,6 +7797,7 @@ idmb.app.chat.global.xiaomi.net @ads
 lxcdn.dl.files.xiaomi.net @ads
 resolver.msg.global.xiaomi.net @ads
 sec-cdn.static.xiaomi.net @ads
+sentry.d.xiaomi.net @ads
 us.api.micloud.xiaomi.net @ads
 xiaomifood.cn @ads
 tracker.xiaomixiaoai.com @ads
@@ -7814,6 +7841,7 @@ sentry.xindong.com @ads
 ichc1.xinglinpukang.com @ads
 a2.xinhuanet.com @ads
 xinlimaoyi2.xinlimaoyi.cn @ads
+upaicdn.xinmei365.com @ads
 tongji.xinmin.cn @ads
 hi.xiunm.cn @ads
 xiyouence.com @ads
@@ -8211,6 +8239,7 @@ za5ww9yxg.com @ads
 zaixianvip.cn @ads
 zakladyboleslawiechome-pl.shop @ads
 zalwlz.icu @ads
+ad.zamae.cn @ads
 zamplus.com @ads
 zantainet.com @ads
 zas4hfcxr.com @ads
@@ -8238,6 +8267,16 @@ zdh10250lo.com @ads
 zdh10251lo.com @ads
 zdh10260lo.com @ads
 zdh10261lo.com @ads
+zdh10270lo.com @ads
+zdh10271lo.com @ads
+zdh10280lo.com @ads
+zdh10281lo.com @ads
+zdh10290lo.com @ads
+zdh10291lo.com @ads
+zdh10300lo.com @ads
+zdh10301lo.com @ads
+zdh10310lo.com @ads
+zdh10311lo.com @ads
 zdl4o6sp3.com @ads
 sentry-monitor-new.zdmimg.com @ads
 zdr6wn2f5.com @ads
